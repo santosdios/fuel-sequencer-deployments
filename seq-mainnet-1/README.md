@@ -35,6 +35,7 @@ Alternate public nodes:
 
 - **Public RPC**: https://fuel-rpc.polkachu.com
 - **Public RPC**: https://rpc-fuel.kintsugi-nodes.com
+- **Public RPC**: https://rpc.fuel.cumulo.com.es
 
 Indexer:
 
